@@ -1,5 +1,5 @@
 ## Hi there 👋
-University of Tsukuba, Master’s Program in Computer Science, 
+University of Tsukuba, Master’s Program in Computer Science
 
 🚧UNDER CONSTRUCTION🚧
 
