@@ -1,7 +1,7 @@
 ## Hi there 👋
-University of Tsukuba, Master’s Program in Computer Science
 
-🚧UNDER CONSTRUCTION🚧
+ - University of Tsukuba, Master’s Program in Computer Science
+ - MIBEL NLP Group.
 
 <!--
 **tukt04/tukt04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
