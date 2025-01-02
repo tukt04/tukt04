@@ -1,7 +1,10 @@
 ## Hi there 👋
 
- - University of Tsukuba, Master’s Program in Computer Science
+ - University of Tsukuba, Master’s Program in Computer Science.
  - MIBEL NLP Group.
+   - Research on efficient implementation of TRIE.
+ - Skill: C++, Python, Vue.js + TypeScript ...
+ - Developing gesture recognition algorithms on a part-time job.
 
 <!--
 **tukt04/tukt04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
